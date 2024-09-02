@@ -3,7 +3,7 @@
 <h1> Kamyar Razi </h1> 
 </div>
 <h3>languages:</h3>
-<img  src='/https://skillicons.dev/icons?i=js,html,css,php,bootstrap,jquery'alt='image'   />
+<img  src='/https://skillicons.dev/icons?i=js,html,css,php,bootstrap,jquery'alt='image' />
 
 
 
