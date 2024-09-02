@@ -1,7 +1,7 @@
  
        
 <div align='center'>
-  <img src='/android-chrome-512x512.png'alt='image' width='150px'/>
+  <img src='/android-chrome-512x512.png'alt='image' width='250px'/>
 <h1> Kamyar Razi </h1> 
 <h3>languages:</h3>
 <img src='https://skillicons.dev/icons?i=js,html,css,php,bootstrap,jquery&perline=3' alt="languages" /> <br>
