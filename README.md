@@ -1,4 +1,4 @@
-    "editor.fontFamily": "'Monaspace Neon', monospace",
+     "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09'",
 <div align='center'>
   <img src='/android-chrome-512x512.png'alt='image' width='250px'/>
 <h1> Kamyar Razi </h1> 
